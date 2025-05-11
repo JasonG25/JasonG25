@@ -9,6 +9,8 @@ I'm currently an **IB student** and a programmer on my school's **FRC robotics t
 - Tools: Git, Android Studio, Visual Studio Code
 - Interests: CPU overclocking, machine learning, robotics
 
+I’ve studied core data structures (arrays, linked lists, stacks, queues, trees) and basic algorithms, and I’m familiar with OOP principles like abstraction, inheritance, polymorphism, and encapsulation, as well as using abstract classes and templates. In machine learning, I’ve worked with models like linear regression, decision trees, and KNN, and used tools like Pandas for data cleaning and evaluation methods such as cross-validation and confusion matrices. 
+
 ## 🌟 Projects
 - 🤖 **FRC Robot Code**: Command-based structure for subsystems and commands
 - 📱 **Scouting App**: Built for FRC team using Android Studio
