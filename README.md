@@ -26,6 +26,7 @@ I’ve studied core data structures (arrays, linked lists, stacks, queues, trees
   - Participated in **MakerFaire and club fairs** with the team regularly. 
   - **Helped teams outside the school** to develop their team by providing technical support. 
 - Established **Science Assembly** at grade 9 and keep participating (publishing articles and holding science fairs)
+  - (Here’s the link of the article sent when I established the club: https://mp.weixin.qq.com/s/ApnQVd2sGxbnUC_A9j9dWw)
 - Established **Computing & Linguistic club** at grade 11 (teaching CS knowledge & programming as a interdisciplinary tool).
 - Attend the **machine learning club** at school
   - Participating the data analysis competition HiMCM
