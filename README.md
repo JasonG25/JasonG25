@@ -6,7 +6,7 @@ I'm currently an **IB student** and a programmer on my school's **FRC robotics t
 ## 🚀 Skills
 - Languages: Java, Python, HTML/CSS, JavaScript
 - Frameworks: WPILib (FRC), Android (Java), simple web dev
-- Tools: Git, Android Studio, Visual Studio Code
+- Tools: Git, Android Studio, Visual Studio Code, Intellij, Webstorm
 - Interests: CPU overclocking, machine learning, robotics
 
 I’ve studied core data structures (arrays, linked lists, stacks, queues, trees) and basic algorithms, and I’m familiar with OOP principles like abstraction, inheritance, polymorphism, and encapsulation, as well as using abstract classes and templates. In machine learning, I’ve worked with models like linear regression, decision trees, and KNN, and used tools like Pandas for data cleaning and evaluation methods such as cross-validation and confusion matrices. 
@@ -15,7 +15,7 @@ I’ve studied core data structures (arrays, linked lists, stacks, queues, trees
 - 🤖 **FRC Robot Code**: Command-based structure for subsystems and commands
 - 📱 **Scouting App**: Built for FRC team using Android Studio
 - 🚦 **Flexible Traffic Light Report**: A independent research in Fudan University CS workstation
-- 🌐 **Shanghai Opera Website**: Developing a website developed for Shanghai Opera sharing
+- 🌐 **AI Task Manager**: Developing a program keeping track of the AI tasks and transforming intranet AI to the internet in Fudan. 
 
 ## 📚 Activities
 - **Participate in the FRC club 8015 for 2 years** (technician, scouting lead, and programming lead, respectively, in Sacramento 2024, Beijing 2024, Port Hueneme 2025)
